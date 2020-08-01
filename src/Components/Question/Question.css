@@ -1,0 +1,16 @@
+.Question {
+    margin: auto;
+    padding: 15px;
+    text-align: start;
+}
+
+.question-container {
+    padding: 24px;
+    background-color: #fff;
+    border-radius: 28px;
+    font-weight: 500;
+}
+
+.slider-styles {
+    margin-top: 18px;
+}

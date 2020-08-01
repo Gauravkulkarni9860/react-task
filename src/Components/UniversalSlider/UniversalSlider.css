@@ -1,0 +1,16 @@
+.UniversalSlider {
+    margin: auto;
+
+    padding: 15px;
+    text-align: start;
+    
+}
+
+.slider-container {
+    display: flex;
+}
+
+.progress-text {
+    font-weight: 500;
+    margin-left: 8px;
+}
